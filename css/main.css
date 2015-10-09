@@ -24,7 +24,7 @@ h1 {
 
 }
 
-img {
+picture, img {
 	max-width:100%;
 }
 .wrap{
